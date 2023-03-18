@@ -4,4 +4,3 @@ blue
 pink
 yellow
 brown
-maroon
