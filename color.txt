@@ -4,3 +4,4 @@ blue
 yellow
 brown
 maroon
+cyan
