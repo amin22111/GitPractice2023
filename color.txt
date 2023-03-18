@@ -4,8 +4,5 @@ blue
 yellow
 brown
 maroon
-<<<<<<< Updated upstream
 cyan
-=======
 pink
->>>>>>> Stashed changes
