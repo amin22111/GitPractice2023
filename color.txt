@@ -1,6 +1,7 @@
 black
 red
 blue
-pink
 yellow
 brown
+maroon
+
